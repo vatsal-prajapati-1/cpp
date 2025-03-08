@@ -8,4 +8,4 @@ int main()
     float simpleInterest = (principal * rate * time) / 100;
     cout << "Simple Interest : " << endl;
     cout << simpleInterest << endl;
-} 
+}
